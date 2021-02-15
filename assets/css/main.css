@@ -36,6 +36,18 @@ ol, ul {
 	list-style: none;
 }
 
+.about-me-container {
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: left;
+}
+
+.technical-skills-container {
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center;
+}
+
 .fa-envelope {
 	font-size: 1.75rem;
 }
